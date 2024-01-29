@@ -1,2 +1,2 @@
-# Test-game
-This is test progect
+# Calculator
+This is Calculator with 7 different features
